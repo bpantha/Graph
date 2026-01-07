@@ -1,12 +1,11 @@
-﻿MFG_ITEM,START_MAT_NBR,USE_PRIORITY,ITEM,QTY_PER_MFG_TEM,EXP_DATE
-Product A,SM001,1,Intermediary1,2,12/31/2026
-Product A,SM002,2,Intermediary2,1,12/31/2026
-Product B,SM003,1,Intermediary1,1,12/31/2026
-Product B,SM004,1,Intermediary3,2,12/31/2026
-Intermediary1,SM005,1,Intermediary4,3,12/31/2026
-Intermediary1,SM006,1,Intermediary5,1,12/31/2026
-Intermediary2,SM007,1,Intermediary5,2,12/31/2026
-Intermediary2,SM008,1,Intermediary6,4,12/31/2026
-Intermediary3,SM009,1,Intermediary4,5,12/31/2026
-Intermediary4,SM010,1,Intermediary7,2,12/31/2026
-
+MFG_ITEM,START_MAT_NBR,USE_PRIORITY,ITEM,QTY_PER_MFG_TEM,EXP_DATE
+Product A,1,1,Intermediary1,2,12/31/2026
+Product A,2,2,Intermediary2,1,12/31/2026
+Product B,1,1,Intermediary1,1,12/31/2026
+Product B,2,1,Intermediary3,2,12/31/2026
+Intermediary1,1,1,Intermediary4,3,12/31/2026
+Intermediary1,2,1,Intermediary5,1,12/31/2026
+Intermediary2,1,1,Intermediary5,2,12/31/2026
+Intermediary2,2,1,Intermediary6,4,12/31/2026
+Intermediary3,1,1,Intermediary4,5,12/31/2026
+Intermediary4,1,1,Intermediary7,2,12/31/2026
