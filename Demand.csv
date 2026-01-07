@@ -1,4 +1,8 @@
-﻿T$SITM,SumOfT$QSHP
+T$SITM,SumOfT$QSHP
 Product A,100
 Product B,60
-Dye A,50
+Intermediary1,50
+Intermediary2,30
+Intermediary3,40
+
+
